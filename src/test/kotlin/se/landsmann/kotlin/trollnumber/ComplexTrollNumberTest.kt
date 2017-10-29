@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 
 
-class ComplexTrollNumberKtTest {
+class ComplexTrollNumberTest {
 
     @Test
     fun parse_complex_number_should_result_in_a_correct_value() {
